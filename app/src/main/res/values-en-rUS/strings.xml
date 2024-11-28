@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SISM Calculator</string>
+    <string name="title">Volume Converter</string>
+    <string name="ingval">Enter the value.</string>
+    <string name="conv">Convert</string>
+    <string name="resu">Resultado: %.2f %s</string>
+    <string name="default_result">Result: 0.0</string>
+    <string name="Litro">Liter</string>
+    <string name="Mililitros">Milliliters</string>
+    <string name="Galones">Gallons</string>
+    <string name="Onzas_Liquidas">Ounces</string>
+    <string name="warn">Enter a valid value.</string>
+</resources>

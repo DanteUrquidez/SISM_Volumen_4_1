@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora SISM</string>
+    <string name="title">Convertidor de Volumen</string>
+    <string name="ingval">Ingrese el valor.</string>
+    <string name="conv">Convertir</string>
+    <string name="resu">Resultado: %.2f %s</string>
+    <string name="default_result">Resultado: 0.0</string>
+    <string name="Litro">Litros</string>
+    <string name="Mililitros">Mililitros</string>
+    <string name="Galones">Galones</string>
+    <string name="Onzas_Liquidas">Onzas Líquidas</string>
+    <string name="warn">Ingrese un valor válido.</string>
+</resources>
